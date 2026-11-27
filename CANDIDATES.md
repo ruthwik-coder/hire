@@ -8,14 +8,20 @@ Three axes per person (see ROLE.md): **Technical** /100 (v2 rubric, pre-intervie
 
 | Priority | Name | Technical /100 (Tier) | Reputation /10 | Can we get them? | Current role | Location | Why (one line) | Status | Profile |
 |---|---|---|---|---|---|---|---|---|---|
-| P1 | **Md Faizal Karim** | 70 (B; A-candidate) | 8 (A, prov.) | Unknown (assume Medium) | Researcher, IIIT-H RRC (Madhava Krishna); degree not visible | Hyderabad | First to hit 70 + A gate: DAGDiff grasp diffusion run on real xArm7+xArm6 dual-arm; RL + impedance (DA-VIL); 3 first-author ICRA/IROS. Needs LinkedIn | Not contacted | [profile](profiles/md-faizal-karim.md) |
-| P1 | **Sarthak Mishra** | 57 (B) | 7 (B) | Medium–High | MS student + RA, IIIT-H RRC (Spandan Roy, aerial manipulation) | Hyderabad | Real aerial-manipulator grasping/placing with VLM + learned grasp nets (80% / 75% hardware success); 3× IROS'26; IGVC captain | Not contacted | [profile](profiles/sarthak-mishra.md) |
+| P1 | **Shivansh Pratap Singh** | **75 (A, prov.)** | 9 (A) | Medium | MS by Research + RA, IIIT-H RRC (Spandan Roy); ETH Zürich ASL fellow (Jul–Aug 2026) | Hyderabad | **First Tier A.** PPO policy + learned residual dynamics / world models on real aerial manipulators; first author AeroGrab (80% real grasps); 3.5 yrs hands-on | Not contacted | [profile](profiles/shivansh-pratap-singh.md) |
+| P1 | **Sarthak Mishra** | 57 (B) | 7 (B) | Medium–High | MS student + RA, IIIT-H RRC (Spandan Roy, aerial manipulation) | Hyderabad | Real aerial-manipulator grasping/placing (AeroGrab 4th author, 80%; AeroPlace-Flow 75%); 3× IROS'26; IGVC captain | Not contacted | [profile](profiles/sarthak-mishra.md) |
 | P2 | **Chalus Jude J** | 39 (C) | 3 (D) | High (intern now) / Medium (full-time after May 2027) | Autonomous Systems Intern, Automind Dynamics @ ARTPARK (IISc); B.E. Mech student (grad May 2027) | Chennai / Bengaluru | Neural IK + PPO on his own 5-DOF arm (sim); ROS 2 AGV; best robot-learning signal so far, but junior | Not contacted | [profile](profiles/chalus-jude-j.md) |
 | P2 | **Aayush Rath** | 38 (C) | 7 (B) | High | Research Assistant, IIIT-H RRC (motion planning); ex-Swaayatt, ex-Nolon intern | Hyderabad | Built Nolon's ROS 2/MoveIt 2/Isaac sim stack solo; strong planning + CFD; robot learning thin | Not contacted | [profile](profiles/aayush-rath.md) |
 | P3 | **Shaurya K. Panwar** | 32 (C) | 7 (B) | Low | Software Engineer, Diaxxo AG, Zurich; ex-MONKEE software lead | Zurich | 3D vision / VLN researcher; no arm or policy work | Not contacted | [profile](profiles/shaurya-panwar.md) |
 | P3 | **Swayam Agrawal** | 31 (C) | 9 (A) | Very low | Pre-Doctoral Researcher, Google DeepMind (Gemini, efficient visual generative models) | Bengaluru | Exceptional ML / 3D vision; no robot learning or hardware | Not contacted | [profile](profiles/swayam-agrawal.md) |
 | P3 | **Akhil R Kurup** | 22 (C) | 6 (B) | Medium | MTech(R) CPS, IISc HiRo Lab (abstraction learning for robotic planning) | Bengaluru | IISc imitation-learning lab with Franka arms; IL-course TA; stair-cleaning robot internship. Thin evidence (low confidence) | Not contacted | [profile](profiles/akhil-r-kurup.md) |
 | P3 | **Swapnil Joshi** | 19 (C) | 6 (B) | Medium | MTech AI student, IISc HiRo Lab (VLA for manipulation, since Nov 2025) | Bengaluru | Right lab + topic, GATE AIR 163; nothing shown yet (low confidence) | Not contacted | [profile](profiles/swapnil-joshi.md) |
+
+## Parked (not pursuing; kept so we don't re-research)
+
+| Name | Technical | Reason | Profile |
+|---|---|---|---|
+| Md Faizal Karim | 70 | Abroad [INT Vishal 2026-11-28]; would have been P1 | [profile](profiles/md-faizal-karim.md) |
 
 ## Change log
 
@@ -32,3 +38,4 @@ Three axes per person (see ROLE.md): **Technical** /100 (v2 rubric, pre-intervie
 | 2026-11-27 | **Three-axis scoring** (Vishal): Reputation /10, Can we get them?, Technical /100, plus contact priority P1–P3. All 5 rescored: Swayam has the top reputation (9, A) but is very unlikely to move; Chalus and Aayush are P2 (gettable); nobody is P1 yet | ROLE.md |
 | 2026-11-27 | IIIT-H RRC publications reviewed: ranked paper-based lead list (about 14 people) added to SEARCH_LOG, not to this list. Swayam's papers confirmed by the lab page; Aayush's RA-L paper not on the lab list (flag) | H015 |
 | 2026-11-28 | Added **Md Faizal Karim** (70, first to pass the A gate on paper; held at B pending CV) and **Sarthak Mishra** (57, B): both **P1**, the first P1s. Added Swapnil Joshi (IISc HiRo, 19, C, low confidence) | H016–H020 |
+| 2026-11-28 | Added **Shivansh Pratap Singh**: 75, **first Tier A** (provisional), P1. Md Faizal Karim moved to Parked (abroad, per Vishal). Rishabh Dev Yadav lead dropped (abroad) | H021–H023 |
