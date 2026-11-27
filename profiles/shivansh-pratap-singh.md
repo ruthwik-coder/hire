@@ -5,9 +5,9 @@
 | Current role | M.S. by Research student (2nd year) + Research Assistant, Control Lab, **IIIT Hyderabad RRC**, advisor Prof. Spandan Roy (RA since Apr 2024). Research: learned dynamics and latent world models working alongside adaptive controllers, tested on real aerial manipulators [CC] H022 |
 | Location / willing to move | Hyderabad [CC] H022 |
 | Education | M.S. by Research, ECE (Robotics and Control), IIIT-H, 2024–present, CGPA 9.67/10 · B.Tech Mechanical Engineering, Bundelkhand Institute of Engineering and Technology (BIET), Jhansi, 2019–2023 [CC] H022 |
-| Previous | **Robotics Student Fellow, Autonomous Systems Lab (ASL), ETH Zürich**, Jul–Aug 2026: disturbance-aware latent world models for a tethered tilt-rotor omnidirectional aerial robot (domain-randomised sim-to-real, JEPA-style latent dynamics, Jetson inference 3–4 ms → 0.7 ms, better disturbance estimation on unseen real flights) [CC] H022; ETH stint also noted by Vishal [INT Vishal 2026-11-28] · Robotics Engineer, Arka Aerospace, Hyderabad (May 2023 – Mar 2024; AprilTag visual servoing for UAV landing, multi-UAV swarming) [CC] H022 |
+| Previous | **Robotics Student Fellow, Autonomous Systems Lab (ASL), ETH Zürich**, Jul–Aug 2026: disturbance-aware latent world models for a tethered tilt-rotor omnidirectional aerial robot (domain-randomised sim-to-real, JEPA-style latent dynamics, Jetson inference 3–4 ms → 0.7 ms, better disturbance estimation on unseen real flights) [CC] H022; LinkedIn lists it as **"RobotX Fellow"**, ASL ETH Zürich, Jul–Aug 2026 [CC] H025; ETH stint also noted by Vishal [INT Vishal 2026-11-28] · Robotics Engineer, Arka Aerospace, Hyderabad (May 2023 – Mar 2024; AprilTag visual servoing for UAV landing, multi-UAV swarming) [CC] H022 H025 · Secretary, The Drone Learner's Club, BIET Jhansi (2022–23) [CC] H025 |
 | Links | [LinkedIn](https://www.linkedin.com/in/shiva2023/) · [Site](https://aerialmechx.github.io/) · [GitHub](https://github.com/AerialMechX) · [Scholar](https://scholar.google.com/citations?user=wUdlS-EAAAAJ) · CV linked from site (not read) |
-| Sources | H019, H021, H022, H023 |
+| Sources | H019, H021, H022, H023, H025 |
 
 ## Evidence by requirement
 | Requirement (ROLE.md v2) | Evidence | Tag |

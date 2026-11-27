@@ -17,7 +17,7 @@ The conversation is NOT the knowledge base. The files are.
 | `screenshots/` | Original evidence (screenshots, LinkedIn PDFs, CVs, papers). **Always name files `<firstname-lastname>_<type>_<detail>.<ext>`** (e.g. `jane-doe_linkedin-export_2026-11.pdf`, `jane-doe_paper_<short-title>_arxiv-<id>.pdf`), using the same slug as the profile file. CVs with contact details get the suffix `_LOCAL-ONLY`. |
 | `SOURCES.md` | Source register: `H001`, `H002`… (H = hiring, to avoid clashing with the competitor KB's S-IDs). |
 | `SEARCH_LOG.md` | Where we have looked (labs, companies, events, repos, queries) and what came out, so searches aren't repeated. |
-| `_inbox/` | Drop zone (files also often land in `people/` as `Profile (2).pdf`). After processing, rename by person and move to `screenshots/`. |
+| `_inbox/` | Drop zone (files also often land in `people/` as `Profile (2).pdf`). After processing, rename by person and move to `screenshots/`. **Check `people/` and `_inbox/` for new files at the start of every prompt** (Vishal, 2026-11-28) and process them; byte-identical re-drops of files already in `screenshots/` are deleted. |
 
 ## Processing any new input
 

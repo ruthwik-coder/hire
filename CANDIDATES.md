@@ -15,6 +15,7 @@ Three axes per person (see ROLE.md): **Technical** /100 (v2 rubric, pre-intervie
 | P3 | **Shaurya K. Panwar** | 32 (C) | 7 (B) | Low | Software Engineer, Diaxxo AG, Zurich; ex-MONKEE software lead | Zurich | 3D vision / VLN researcher; no arm or policy work | Not contacted | [profile](profiles/shaurya-panwar.md) |
 | P3 | **Swayam Agrawal** | 31 (C) | 9 (A) | Very low | Pre-Doctoral Researcher, Google DeepMind (Gemini, efficient visual generative models) | Bengaluru | Exceptional ML / 3D vision; no robot learning or hardware | Not contacted | [profile](profiles/swayam-agrawal.md) |
 | P3 | **Akhil R Kurup** | 22 (C) | 6 (B) | Medium | MTech(R) CPS, IISc HiRo Lab (abstraction learning for robotic planning) | Bengaluru | IISc imitation-learning lab with Franka arms; IL-course TA; stair-cleaning robot internship. Thin evidence (low confidence) | Not contacted | [profile](profiles/akhil-r-kurup.md) |
+| P3 | **Ayush Kaura** | 21 (C) | 6 (B) | Medium | MS by Research CS + Graduate Researcher, IIIT-H RRC (since 2024) | Hyderabad | ECMR'25 task-planning co-author; ARTPARK legged-robot perception intern; thin evidence (low confidence). Not Aayush Rath | Not contacted | [profile](profiles/ayush-kaura.md) |
 | P3 | **Swapnil Joshi** | 19 (C) | 6 (B) | Medium | MTech AI student, IISc HiRo Lab (VLA for manipulation, since Nov 2025) | Bengaluru | Right lab + topic, GATE AIR 163; nothing shown yet (low confidence) | Not contacted | [profile](profiles/swapnil-joshi.md) |
 
 ## Parked (not pursuing; kept so we don't re-research)
@@ -39,3 +40,4 @@ Three axes per person (see ROLE.md): **Technical** /100 (v2 rubric, pre-intervie
 | 2026-11-27 | IIIT-H RRC publications reviewed: ranked paper-based lead list (about 14 people) added to SEARCH_LOG, not to this list. Swayam's papers confirmed by the lab page; Aayush's RA-L paper not on the lab list (flag) | H015 |
 | 2026-11-28 | Added **Md Faizal Karim** (70, first to pass the A gate on paper; held at B pending CV) and **Sarthak Mishra** (57, B): both **P1**, the first P1s. Added Swapnil Joshi (IISc HiRo, 19, C, low confidence) | H016–H020 |
 | 2026-11-28 | Added **Shivansh Pratap Singh**: 75, **first Tier A** (provisional), P1. Md Faizal Karim moved to Parked (abroad, per Vishal). Rishabh Dev Yadav lead dropped (abroad) | H021–H023 |
+| 2026-11-28 | Added Ayush Kaura (21, C, P3). Shivansh's LinkedIn confirms the ETH ASL RobotX fellowship (score unchanged, 75). Duplicate drops (Swapnil, Sarthak, SegMASt3R) already on file | H024–H025 |
